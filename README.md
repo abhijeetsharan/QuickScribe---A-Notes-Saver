@@ -1,8 +1,20 @@
-# React + Vite
+# QuickScribe - A Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+QuickScribe is a user-friendly notes app built using React, Redux, and Tailwind CSS. It allows users to create, view, edit, delete, copy, and share notes seamlessly.
 
-Currently, two official plugins are available:
+## Features
+- Create and edit notes
+- Search functionality for quick access
+- Copy and share notes easily
+- View note details with a clean interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js
+- Redux
+- Tailwind CSS
+- Lucide Icons
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone <repo-url>
